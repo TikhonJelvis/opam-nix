@@ -30,6 +30,7 @@ pkgs
   "autoconf" = pkgsBuildBuild.autoconf;
   "cairo" = cairo.dev;
   "expat" = expat.dev;
+  "dwarfutils" = libdwarf;
   "gmp" = gmp.dev;
   "gtk+3" = gtk3.dev;
   "gtksourceview3" = gtksourceview3.dev;
